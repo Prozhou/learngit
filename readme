@@ -7,4 +7,6 @@ create a new branch is quick and simple!
 modify by dev but not complete...
 add master !
 dev modify
-
+#创建本地版本库分支与其他版本库分支的关联
+git branch --set-upstream branch-name origin/branch-name
+#
